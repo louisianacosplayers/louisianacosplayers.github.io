@@ -654,11 +654,12 @@ form {
   text-indent: 3px;
 }
 
-aside#sidebar h3 {
+div#menu h3 {
   margin-top: 24px;
   margin-bottom: 8px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 18px;
+  /*font-size: 18px;*/
+  font-size:10px;
   font-weight: bold;
   color: #474747;
   text-indent: 3px;
