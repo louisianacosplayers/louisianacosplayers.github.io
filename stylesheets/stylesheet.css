@@ -719,6 +719,12 @@ div#menu ul {
   list-style-type: none;
 }
 
+div#menu li:before {
+  padding-right: 0.3em;
+  margin-left: -0.9em;
+  color: #9ddcff;
+  content: ">";
+}
 
 p {
   margin-bottom: 20px;
