@@ -654,7 +654,7 @@ form {
   text-indent: 3px;
 }
 
-#aside h3 {
+aside#sidebar h3 {
   margin-top: 24px;
   margin-bottom: 8px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
