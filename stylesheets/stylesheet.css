@@ -893,6 +893,10 @@ footer a:hover {
     content: none;
   }
   
+  #main-content ol:li{
+    style="margin-bottom: 10px;
+  }
+  
   div#directory p{
     font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   }
