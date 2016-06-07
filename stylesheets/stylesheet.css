@@ -898,8 +898,8 @@ footer a:hover {
     content: none;
   }
   
-  div#rules ol, li{
-    margin-bottom: 10px;
+  div#rules li:after{
+    margin-bottom: 20px;
   }
   
   div#directory p{
