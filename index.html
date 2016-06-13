@@ -78,23 +78,14 @@ c.parentNode.insertBefore(cp, c); })(); </script><noscript>Powered by Cincopa <a
 <!-- end lightbox slideshow from Cincopa -->
 
 <!-- swipebox -->
-<script type="text/javascript">
-;( function( $ ) {
-
-	$( '.swipebox' ).swipebox();
-
-} )( jQuery );
-$( '#gallery' ).click( function( e ) {
-	e.preventDefault();
-	$.swipebox( [
-		{ href:'images/gallery/IMG_4557.JPG', title:'My Caption' }, 
-		{ href:'images/gallery/IMG_4792.JPG', title:'My Second Caption' }
-	] );
-} );
-</script>
 <a rel="gallery-1" href="images/gallery/IMG_4557.JPG" class="swipebox"><img src="images/gallery/IMG_4557tb.JPG" alt="image"></a>
 <a rel="gallery-1" href="images/gallery/IMG_4792.JPG" class="swipebox"><img src="images/gallery/IMG_4792tb.JPG" alt="image"></a>
 <a rel="gallery-1" href="images/gallery/IMG_5654.JPG" class="swipebox"><img src="images/gallery/IMG_5654tb.JPG" alt="image"></a>
+<script type="text/javascript">
+jQuery(function($){
+	$(".swipebox").swipebox();
+});
+</script>
 <!-- end swipebox -->
 
 <!--
