@@ -1,5 +1,5 @@
 Orignal Image resolution: 4000 x 2664
-Gallery resolution: 350 x 233
+Gallery resolution: 325 x 233
 HTML notation for the overlay shade of blue: 130ad2 http://www.htmlcsscolor.com/hex/130AD2
 Level of opacity: 37%
 Blue overlay distance from top of image: 82px
