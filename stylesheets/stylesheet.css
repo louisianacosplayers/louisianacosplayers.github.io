@@ -803,7 +803,7 @@ footer a:hover {
     font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   }
  
- /* begin navigation */ 
+ /* begin NAVIGATION */ 
   ul.nav{
 	list-style:none;
 	font-family: 'Helvetica Neue', Helvetica, Arial, serif;
@@ -812,7 +812,7 @@ footer a:hover {
 	font-weight:bold;
 	margin-bottom: 0;
 	float:left;
-	width:75%;
+	width:100%;
 	position:relative;
 	z-index:5;
     /*background:#c7aed1;*/
@@ -863,7 +863,7 @@ footer a:hover {
 	background:#ffffff; /*f0cf16; /* block color */
 	/*text-decoration:none;*/
   }
- /* end navigation */
+ /* end NAVIGATION */
  
  /* end added by Meggie */
 
