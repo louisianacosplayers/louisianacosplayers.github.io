@@ -835,30 +835,33 @@ footer a:hover {
   }
   ul.nav li:hover a{ 
 	background:#ffffff; /*930a0a; /* block color */ 
-	text-decoration:none;
+	/*text-decoration:none;*/
   }
+  /*
   ul.nav li:hover ul a{ 
 	text-decoration:none;
-  }
+  }*/
+  /*
   ul.nav li:hover ul li a:hover{ 
 	background:#000000;
-  }
+  }*/
   ul.nav li{
 	float:left;
 	margin-right:10px;
+	margin-bottom:10px;
 	position:relative;
   }
   ul.nav a{
 	display:block;
 	padding:5px;
-	color:#ffffff; /*#fcb7ca; /* text color */ 
-	background:#336699; /*66498a; /* block color */ 
-	text-decoration:none;
+	color:#ffffff; /* white text */ 
+	background:#336699; /* blue block */ 
+	/*text-decoration:none;*/
   }
   ul.nav a:hover{
 	color:#336699; /*ffc600; /* text color */
 	background:#ffffff; /*f0cf16; /* block color */
-	text-decoration:none;
+	/*text-decoration:none;*/
   }
  /* end navigation */
  
