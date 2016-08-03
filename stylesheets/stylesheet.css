@@ -844,7 +844,7 @@ footer a:hover {
 	background:#000000;
   }
   ul.nav li{
-	float:center; /*left;*/
+	float:left;
 	margin-right:10px;
 	position:relative;
   }
