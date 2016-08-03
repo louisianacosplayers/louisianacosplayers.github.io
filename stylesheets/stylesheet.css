@@ -840,10 +840,9 @@ footer a:hover {
   ul.nav li:hover ul a{ 
 	text-decoration:none;
   }
-  /*
   ul.nav li:hover ul li a:hover{ 
 	background:#000000;
-  }*/
+  }
   ul.nav li{
 	float:center; /*left;*/
 	margin-right:10px;
