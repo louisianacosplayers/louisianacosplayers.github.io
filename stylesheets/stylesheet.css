@@ -807,6 +807,13 @@ footer a:hover {
   }
  
  /* begin NAVIGATION */ 
+ div#navigation{
+	width:100%;
+	float:left;
+	margin-bottom: 0;
+	position:relative;
+	z-index:5;
+ }
   ul.nav{
 	list-style:none;
 	font-family: 'Helvetica Neue', Helvetica, Arial, serif;
