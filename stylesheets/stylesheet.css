@@ -868,7 +868,12 @@ footer a:hover {
   }
  /* end NAVIGATION */
  
+ div#gallery a{
+	float: center;
+ }
+ 
  /* end added by Meggie */
+ 
 
 .clearfix {display: inline-block;}
 * html .clearfix {height: 1%;}
