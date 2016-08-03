@@ -818,7 +818,7 @@ footer a:hover {
     /*background:#c7aed1;*/
   }
   ul.nav li{
-	/*float:left;*/
+	float:left;
 	margin-right:10px;
 	position:relative;
   }
