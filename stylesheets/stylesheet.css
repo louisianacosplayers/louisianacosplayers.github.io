@@ -817,6 +817,32 @@ footer a:hover {
 	z-index:5;
     /*background:#c7aed1;*/
   }
+  ul.nav ul{
+	background: transparent; 
+	list-style:none;
+	position:absolute;
+	left:-9999px; 
+  }
+  ul.nav ul li{
+	padding-top: 0px; 
+	float:none;
+  }
+  ul.nav ul a{
+	white-space:nowrap; 
+  }
+  ul.nav li:hover ul{
+	left:0; 
+  }
+  ul.nav li:hover a{ 
+	background:#930a0a;
+	text-decoration:none;
+  }
+  ul.nav li:hover ul a{ 
+	text-decoration:none;
+  }
+  ul.nav li:hover ul li a:hover{ 
+	background:#000000;
+  }
   ul.nav li{
 	float:left;
 	margin-right:10px;
