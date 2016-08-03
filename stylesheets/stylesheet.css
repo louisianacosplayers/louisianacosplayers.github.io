@@ -793,6 +793,48 @@ footer a:hover {
   content: '.';
 }
 
+/* added by Meggie */ 
+  #main-content div#rules li:after{
+    margin-bottom: 20px;
+  }
+  
+  div#directory p{
+    font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  }
+ 
+ /* begin navigation */ 
+  ul.nav{
+	list-style:none;
+    font-size: 124%;
+	font-weight:bold;
+	margin-bottom: 0;
+	float:left;
+	width:100%;
+	position:relative;
+	z-index:5;
+    background:#c7aed1;
+  }
+  ul.nav li{
+	float:left;
+	margin-right:10px;
+	position:relative;
+  }
+  ul.nav a{
+	display:block;
+	padding:5px;
+	color:#fcb7ca;
+	background:#66498a;
+	text-decoration:none;
+  }
+  ul.nav a:hover{
+	color:#ffc600;
+	background:#f0cf16;
+	text-decoration:none;
+  }
+ /* end navigation */
+ 
+ /* end added by Meggie */
+
 .clearfix {display: inline-block;}
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
@@ -899,13 +941,6 @@ footer a:hover {
     content: none;
   }
   
-  #main-content div#rules li:after{
-    margin-bottom: 20px;
-  }
-  
-  div#directory p{
-    font-family: 'Helvetica Neue', Helvetica, Arial, serif;
-  }
 }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
