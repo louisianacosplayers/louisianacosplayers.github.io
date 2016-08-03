@@ -8,6 +8,8 @@
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+	
+	<script src="http://www.w3schools.com/lib/w3data.js"></script>
 
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -31,11 +33,14 @@
       <div class="inner clearfix">
         
         <!-- SIDEBAR -->
-        <aside id="sidebar"> <!--
+        <!--<aside id="sidebar"> 
           <object type="text/html" data="sidebar.html" width=200px height=350px></object>
         </aside> -->
         
         <section id="main-content">
+		<!-- navigation -->
+			<div w3-include-html="nav.html"></div>
+			<script>w3IncludeHTML();</script>
         
 <h1>Admins</h1>
 <p>
