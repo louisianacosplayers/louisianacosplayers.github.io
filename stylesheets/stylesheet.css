@@ -484,7 +484,7 @@ header h2 {
 }
 
 #content-wrapper {
-  padding-top: 30px;
+  padding-top: 10px; /*30px;*/
   border-top: solid 1px #fff;
 }
 
@@ -492,8 +492,7 @@ header h2 {
   /*float: left;*/
   /*float: right;*/
   float: center;
-  /*width: 690px;*/
-  width: 100%;
+  width: 100%; /*width: 690px;*/
 }
 
 #main-content img {
