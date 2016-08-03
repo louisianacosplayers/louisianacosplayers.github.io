@@ -868,8 +868,8 @@ footer a:hover {
   }
  /* end NAVIGATION */
  
- div#gallery p{
-	float: center;
+ div#gallery img{
+	padding: 10px;
  }
  
  /* end added by Meggie */
