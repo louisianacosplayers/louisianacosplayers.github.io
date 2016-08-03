@@ -834,7 +834,7 @@ footer a:hover {
 	left:0; 
   }
   ul.nav li:hover a{ 
-	background:#930a0a;
+	background:#ffffff; /*930a0a; /* block color */ 
 	text-decoration:none;
   }
   ul.nav li:hover ul a{ 
@@ -855,11 +855,11 @@ footer a:hover {
 	background:#336699; /*66498a; /* block color */ 
 	text-decoration:none;
   }
-  ul.nav a:hover{
-	color:#336699; /*ffc600; /* text color */ 
-	background:#ffffff; /*f0cf16; /* block color */
+  /*ul.nav a:hover{
+	color:#336699; /*ffc600; /* text color */ /*
+	background:#ffffff; /*f0cf16; /* block color */ /*
 	text-decoration:none;
-  }
+  }*/ 
  /* end navigation */
  
  /* end added by Meggie */
