@@ -808,10 +808,10 @@ footer a:hover {
 	list-style:none;
 	font-family: 'Helvetica Neue', Helvetica, Arial, serif;
     /*font-size: 124%;*/
-	font-size: 12px;
+	font-size: 14px;
 	font-weight:bold;
 	margin-bottom: 0;
-	/*float:left;*/
+	float:left;
 	width:100%;
 	position:relative;
 	z-index:5;
