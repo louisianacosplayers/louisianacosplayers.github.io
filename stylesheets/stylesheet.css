@@ -869,7 +869,9 @@ footer a:hover {
  /* end NAVIGATION */
  
  div#gallery img{
-	padding: 10px;
+	padding: 5px;
+	width: 325px; 
+	height: 216px;
  }
  
  /* end added by Meggie */
